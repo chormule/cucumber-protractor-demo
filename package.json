@@ -1,0 +1,14 @@
+{
+  "name": "protractor-cucumber-e2e-tests",
+  "version": "1.0.0",
+  "devDependencies": {
+    "gulp": "^3.9.1",
+    "gulp-protractor-cucumber-html-report": "^0.1.2"
+  },
+  "dependencies": {
+    "chai": "^3.5.0",
+    "chai-as-promised": "^6.0.0",
+    "cucumber": "^1.0.0",
+    "protractor-cucumber-framework": "^0.6.0"
+  }
+}
